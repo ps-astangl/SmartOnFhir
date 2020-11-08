@@ -1,0 +1,7 @@
+
+{
+  "/launch": {
+    "target": "http://localhost:4200/launch",
+    "secure": true
+  }
+}
